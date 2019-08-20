@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: zbxskh@gmail.com
 description: "Dreaming."
 keyword: "Story, Storyboard, 大梦的博客, 故事版, 分镜头, Big Dream, Big Dream Blog, zbxsk"
-url: "https://zbxboxk.github.io"          # your host, for absolute URL
+url: "http://zbxboxk.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/zbxboxk/zbxboxk.github.io.git" # you code repository
 
