@@ -11,14 +11,14 @@ github_repo: "https://github.com/zbxboxk/zbxboxk.github.io.git" # you code repos
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "For Storyboard!"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     zbxboxk
+weibo_username:     zbxboxk
 zhihu_username:     Big_Dreaming
 github_username:    zbxboxk
 facebook_username:  zb.d.xsk
