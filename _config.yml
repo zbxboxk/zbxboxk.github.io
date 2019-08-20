@@ -1,13 +1,13 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+title: Big Dream
+SEOTitle: 大梦的博客 | Big Dream Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+email: zbxskh@gmail.com
+description: "Dreaming."
+keyword: "Story, Storyboard, 大梦的博客, 故事版, 分镜头, Big Dream, Big Dream Blog, zbxsk"
+url: "https://zbxboxk.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/zbxboxk/zbxboxk.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,13 +18,12 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
-
+# weibo_username:     zbxboxk
+zhihu_username:     Big_Dreaming
+github_username:    zbxboxk
+facebook_username:  zb.d.xsk
+twitter_username:   @zbxsk
+#jianshu_username:   e71990ada2fd
 
 
 
@@ -57,16 +56,16 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: zbxboxk
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: fc7bcaf3fd33404c4edc                            #生成的clientID
+  clientSecret: 95986cf47a5f9f1a53f9bd65fbcb7a40d4a17101    #生成的clientSecret
+  repo: zbxboxk.github.io    #仓库名称
+  owner: zbxbxok    #github用户名
+  admin: zbxbxok
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -74,11 +73,11 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id: 8f978a3a997195ad57962e907855e819
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_track_id: 'UA-146051882-1'            # Format: UA-xxxxxx-xx
+ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
