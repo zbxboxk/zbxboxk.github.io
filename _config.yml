@@ -4,14 +4,14 @@ SEOTitle: 大梦的博客 | Big Dream Blog
 header-img: img/post-bg-desk.jpg
 email: zbxskh@gmail.com
 description: "Dreaming."
-keyword: "Big Dream, Big Dream Blog, 大梦的博客, zbxsk, 分镜, 分镜头, 故事板, 故事, Story, Storyboard"
-url: "http://zbxboxk.github.io"          # your host, for absolute URL
+keyword: "Story, Storyboard, 大梦的博客, 故事版, 分镜头, Big Dream, Big Dream Blog, zbxsk"
+url: "https://zbxboxk.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/zbxboxk/zbxboxk.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "For Dreaming!"
+sidebar-about-description: "Goals determine what you going to be!"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -22,9 +22,8 @@ RSS: false
 zhihu_username:     Big_Dreaming
 github_username:    zbxboxk
 facebook_username:  zb.d.xsk
-@jianshu_username:   e71990ada2fd
 twitter_username:   @zbxsk
-
+#jianshu_username:   e71990ada2fd
 
 
 
@@ -62,11 +61,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: fc7bcaf3fd33404c4edc                            #生成的clientID
+  clientSecret: 95986cf47a5f9f1a53f9bd65fbcb7a40d4a17101    #生成的clientSecret
+  repo: zbxboxk.github.io    #仓库名称
+  owner: zbxbxok    #github用户名
+  admin: zbxbxok
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -101,5 +100,14 @@ friends: [
     {
         title: "WY",
         href: "http://zhengwuyang.com"
+    },{
+        title: "简书·BY",
+        href: "http://www.jianshu.com/u/e71990ada2fd"
+    },{
+        title: "Apple",
+        href: "https://apple.com"
+    },{
+        title: "Apple Developer",
+        href: "https://developer.apple.com/"
     }
 ]
